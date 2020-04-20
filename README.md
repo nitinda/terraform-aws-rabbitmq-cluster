@@ -3,7 +3,16 @@ _RabbitMQ Cluster on AWS EC2 model, using EC2 peer discovery._
 
 _RabbitMQ cluster on AWS EC2 with high availability. We’ll set up a 2 or 3 node RabbitMQ cluster on AWS EC2 with high availability policy. The purpose of this cluster will be to provide failover in case of any node failure, so consumers will be functional even if one or two nodes are down._
 
+<!--BEGIN STABILITY BANNER-->
 ---
+
+![_Code : Stable_](https://img.shields.io/badge/Code-Stable-brightgreen?style=for-the-badge&logo=github)
+
+> **_This is a stable example. It should successfully build out of the box_**
+>
+
+---
+<!--END STABILITY BANNER-->
 
 
 ## _Pre-requisite_
